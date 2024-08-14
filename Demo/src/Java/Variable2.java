@@ -10,8 +10,8 @@ public class Variable2 {
 		char grade;
 		
 		//Variable initialise
-		employeename = "Deep";
-		rollno = 2779;
+		employeename = "Deep TALEKAR";
+		rollno = 277;
 		percentage = 22.39f;
 		grade = 'A';
 		
